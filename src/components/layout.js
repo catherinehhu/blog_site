@@ -11,9 +11,10 @@ const Layout = ({ location, title, children }) => {
       )
   let header2 = (
         <Link className="header-link-home" to="/about">
-          {title}
+            about
         </Link> 
         )
+
   return (
     <div className="global-wrapper" data-is-root-path={isRootPath}>
       <header className="global-header">{header1} 
