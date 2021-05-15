@@ -3,7 +3,7 @@ module.exports = {
     title: `catherine hu`,
     author: {
       name: `Catherine Hu`,
-      summary: ` who's currently studying CS at UCLA.`,
+      summary: `a CS + geography student at UCLA with a terrible sense of direction and a passion for storytelling`,
     },
     description: `A personal blog by Catherine.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,

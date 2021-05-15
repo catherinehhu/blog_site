@@ -86,6 +86,9 @@ body {
 footer {
   padding: var(--spacing-6) var(--spacing-0);
 }
+footer a{
+  margin-right: 1rem;
+}
 
 hr {
   background: var(--color-accent);
@@ -284,6 +287,7 @@ a:focus {
   font-family: var(--font-heading);
   text-decoration: none;
   font-size: var(--fontSize-2);
+  margin-right: 1rem;
 }
 
 .bio {
