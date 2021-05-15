@@ -3,7 +3,7 @@ module.exports = {
     title: `catherine hu`,
     author: {
       name: `Catherine Hu`,
-      summary: `a CS + geography student at UCLA with a terrible sense of direction and a passion for storytelling`,
+      summary: `a computer science and geography student at UCLA with a terrible sense of direction and a passion for storytelling`,
     },
     description: `A personal blog by Catherine.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
@@ -126,5 +126,6 @@ module.exports = {
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,
+    
   ],
 }

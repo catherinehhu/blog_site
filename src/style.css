@@ -57,12 +57,12 @@
   --fontSize-5: 2.074rem;
   --fontSize-6: 2.488rem;
   --fontSize-7: 2.986rem;
-  --color-primary: #005b99;
+  --color-primary: #5E8C61;
   --color-text: #2e353f;
   --color-text-light: #4f5969;
-  --color-heading: #1a202c;
-  --color-heading-black: black;
-  --color-accent: #d1dce5;
+  --color-heading: #333333;
+  --color-heading-black: #333333;
+  --color-accent: #A4B6A7;
 }
 
 /* HTML elements */
@@ -89,6 +89,7 @@ body {
 
 footer {
   padding: var(--spacing-6) var(--spacing-0);
+text-align: center;
 }
 footer a{
   margin-right: 1rem;
