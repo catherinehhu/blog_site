@@ -11,7 +11,7 @@ const NotFoundPage = ({ data, location }) => {
     <Layout location={location} title={siteTitle}>
       <Seo title="about" />
       <h2>about me</h2>
-        <p>Originally from Burnaby, British Columbia, I've grown up in Southern California for the past ten years. Currently, I study computer science and geography at UCLA, where I'm an almost-sophomore.</p>
+        <p>Originally from Burnaby, British Columbia, I've lived in Southern California for the past ten years. Currently, I study computer science and geography at UCLA, where I'm an almost-sophomore.</p>
         <ul><h2>hobbies + interests</h2> 
           <li>writing short stories</li>
           <li>hiking</li>
