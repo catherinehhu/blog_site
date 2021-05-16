@@ -13,8 +13,8 @@ const Layout = ({ location, title, children }) => {
         </Link> 
         )
         let header3 = (
-          <Link className="header-link-home" to="/projects">
-              projects + work 
+          <Link className="header-link-home" to="/experience">
+              experience 
           </Link>)
   let header4 = (<a className = "header-link-home" href="/Hu_Catherine.pdf">resume</a>)
 

@@ -11,16 +11,16 @@ const NotFoundPage = ({ data, location }) => {
     <Layout location={location} title={siteTitle}>
       <Seo title="experience" />
       <h2>things i've made</h2>
-      <ul>in progress: 
-        <li>this website? (shoutout to gatsby's incredible documentation for guiding me through this)</li>
+      <ul><h4>in progress:</h4>
+        <li>this website! (shoutout to gatsby's incredible documentation for guiding me through this)</li>
         <li>a clean tech web app, working on design and dev</li>
       </ul>
-      <ul>previously: 
-        <li>a firebase web app for coordinating wildfire evacuations @ pennapps 2020</li>
+      <ul><h4>previously:</h4> 
         <li>a covid-19 inspired game @ sbhacks 2021</li>
-        <li>ghostracer, a c++ game that explored OOP and inheritance @ ucla</li>
-        <li>basic versions instagram, twitter, and imdb @ ios codepath course fall 2020</li>
+        <li>ghostracer, a c++ game exploring OOP and inheritance @ ucla</li>
+        <li>basic versions of instagram, twitter, and imdb @ ios codepath course fall 2020</li>
         <li><a href = "https://covalent.app/">covalent</a>, a web app for remote team bonding, contributed to front end dev</li>
+        <li>a firebase web app for coordinating wildfire evacuations @ pennapps 2020</li>
         <li>a functional <a href = "https://www.beckman-foundation.org/people/catherine-hu/">spectrophotometer</a> out of legos @ arnold & mabel beckman foundation</li>
       </ul>
       <h2>work i've done</h2>
@@ -30,6 +30,7 @@ const NotFoundPage = ({ data, location }) => {
       <h2>school orgs i'm in</h2>
       <ul>
         <li>LA Hacks</li>
+        <li>Daily Bruin</li>
         <li>Nova, Tech for Good</li>
         <li>Innovate@UCLA</li>
         <li>DevX</li>
