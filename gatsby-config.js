@@ -6,7 +6,7 @@ module.exports = {
       summary: `a computer science and geography student at UCLA with a terrible sense of direction and a passion for storytelling`,
     },
     description: `A personal blog by Catherine.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    siteUrl: `https://catherinehhu.com/`,
     social: {
       twitter: `_catherinehu`,
     },

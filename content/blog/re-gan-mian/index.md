@@ -1,7 +1,7 @@
 ---
-title: 热干面 (part 1 of many stories about food)
+title: 热干面
 date: "2021-05-16"
-description: "re gan mian: hot dry noodles"
+description: "re gan mian: hot dry noodles (part 1 of many stories about food)"
 ---
 
 ## childhood in a bowl 

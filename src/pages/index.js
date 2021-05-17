@@ -15,7 +15,7 @@ const BlogIndex = ({ data, location }) => {
         <Seo title="All posts" />
         <Bio />
         <p>
-          No blog posts found.
+          No blog posts found. 
         </p>
       </Layout>
     )
