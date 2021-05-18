@@ -18,10 +18,10 @@ const NotFoundPage = ({ data, location }) => {
           <li>stargazing</li>
           <li>coming up with exciting spotify playlist names</li>
           <li>trying new recipes</li>
-          <li>talking about and eating food</li>
-          <li>watching the sunrise + sunset</li>
-          <li>taking photos (exclusively of stars, sunsets, and flowers)</li>
-          <li>reading memoirs, fantasy, poetry, and sci-fi</li>
+          <li>talking about + eating food</li>
+          <li>watching the sunrises + sunsets</li>
+          <li>taking photos (exclusively of stars, sunsets, + flowers)</li>
+          <li>reading memoirs, fantasy, poetry, + sci-fi</li>
           <li>embroidering</li>
           <li>practicing calligraphy</li>
         </ul>

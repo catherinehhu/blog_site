@@ -44,7 +44,7 @@ const Bio = () => {
       />
       {author?.name && (
         <p>
-          Word chaos by <strong>{author.name}</strong>, {author?.summary || null}
+          Website and word chaos by <strong>{author.name}</strong>, {author?.summary || null}
 .          {` `}
           <br></br>
           <a href={`https://twitter.com/${social?.twitter || ``}`}>

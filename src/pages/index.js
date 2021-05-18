@@ -1,86 +1,43 @@
 import * as React from "react"
-import { Link, graphql } from "gatsby"
+import { graphql } from "gatsby"
 
-import Bio from "../components/bio"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
 
-const BlogIndex = ({ data, location }) => {
-  const siteTitle = data.site.siteMetadata?.title || `Title`
-  const posts = data.allMarkdownRemark.nodes
-
-  if (posts.length === 0) {
-    return (
-      <Layout location={location} title={siteTitle}>
-        <Seo title="All posts" />
-        <Bio />
-        <p>
-          No blog posts found. 
-        </p>
-      </Layout>
-    )
-  }
+const NotFoundPage = ({ data, location }) => {
+  const siteTitle = data.site.siteMetadata.title
 
   return (
     <Layout location={location} title={siteTitle}>
-      <Seo title="writing" />
-      <Bio />
-      <ol style={{ listStyle: `none` }}>
-        {posts.map(post => {
-          const title = post.frontmatter.title || post.fields.slug
-
-          return (
-            <li key={post.fields.slug}>
-              <article
-                className="post-list-item"
-                itemScope
-                itemType="http://schema.org/Article"
-              >
-                <header>
-                  <h2>
-                    <Link to={post.fields.slug} itemProp="url">
-                      <span itemProp="headline">{title}</span>
-                    </Link>
-                  </h2>
-                  <small>{post.frontmatter.date}</small>
-                </header>
-                <section>
-                  <p
-                    dangerouslySetInnerHTML={{
-                      __html: post.frontmatter.description || post.excerpt,
-                    }}
-                    itemProp="description"
-                  />
-                </section>
-              </article>
-            </li>
-          )
-        })}
-      </ol>
+      <Seo title="about" />
+      <h2>about me</h2>
+        <p>Hi there! My name is Catherine Hu, and I'm a computer science and geography student @ UCLA. Originally from Burnaby, British Columbia, I've lived in Southern California for the past ten years.</p>
+        <p>I first got into tech near the end of my senior year of high school (right around the beginning of quarantine) because I was drawn to its potential to build communities and bring people together. I'm excited to use my education and experiences to exploring my interests in social impact.</p>
+        <ul><h2>hobbies + interests</h2> 
+        <li>writing short stories</li>
+          <li>hiking</li>
+          <li>stargazing</li>
+          <li>coming up with exciting spotify playlist names</li>
+          <li>trying new recipes</li>
+          <li>talking about + eating food</li>
+          <li>watching the sunrises + sunsets</li>
+          <li>taking photos (mostly of stars, sunsets, + flowers)</li>
+          <li>reading memoirs, fantasy, poetry, + sci-fi</li>
+          <li>embroidering</li>
+          <li>practicing calligraphy</li>
+          <li>using the Oxford comma</li>
+        </ul>
     </Layout>
   )
 }
 
-export default BlogIndex
+export default NotFoundPage
 
 export const pageQuery = graphql`
   query {
     site {
       siteMetadata {
         title
-      }
-    }
-    allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
-      nodes {
-        excerpt
-        fields {
-          slug
-        }
-        frontmatter {
-          date(formatString: "MMMM DD, YYYY")
-          title
-          description
-        }
       }
     }
   }

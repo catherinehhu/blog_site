@@ -31,8 +31,8 @@ const NotFoundPage = ({ data, location }) => {
       <ul>
         <li>LA Hacks (sponsorships)</li>
         <li>Daily Bruin (data journalism)</li>
-        <li>Nova, Tech for Good (outreach)</li>
-        <li>Innovate@UCLA (dev)</li>
+        <li>Nova, Tech for Good (product + outreach)</li>
+        <li>Innovate@UCLA (pm + dev)</li>
         <li>DevX (marketing)</li>
         <li>Creative Labs (story writing)</li>
       </ul>
