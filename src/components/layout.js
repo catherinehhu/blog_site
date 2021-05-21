@@ -1,6 +1,7 @@
 import * as React from "react"
 import { Link } from "gatsby"
 
+
 const Layout = ({ location, title, children }) => {
   let home_header = (
       <Link className="header-link-home" to="/">
@@ -33,9 +34,7 @@ const Layout = ({ location, title, children }) => {
         <br></br> 
         <hr></hr>
         <br></br>
-        © {new Date().getFullYear()} | made with 🤍 by catherine and
-        {` `}
-        <a href="https://www.gatsbyjs.com">gatsby</a>
+        © {new Date().getFullYear()} | made with 🤍 by catherine
       </footer>
     </div>
   )
