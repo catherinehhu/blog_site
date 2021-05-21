@@ -192,6 +192,8 @@ ul li,
 ol li {
   padding-left: var(--spacing-0);
   margin-bottom: calc(var(--spacing-8) / 2);
+  margin-left:var(--spacing-4);
+  margin-right:var(--spacing-4);
 }
 
 li > p {
@@ -326,10 +328,6 @@ a:focus {
   margin-right: auto;
   width: 50%;
 }
-.card li{
-margin-left:var(--spacing-4);
-margin-right:var(--spacing-4);
-}
 
 .bio {
   display: flex;
@@ -346,6 +344,15 @@ margin-right:var(--spacing-4);
   margin-bottom: var(--spacing-0);
   min-width: 50px;
   border-radius: 100%;
+}
+
+.profile{
+  border-radius: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  max-width: var(--spacing-32);
 }
 
 .blog-post header h1 {
