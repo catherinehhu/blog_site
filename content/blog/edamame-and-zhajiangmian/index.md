@@ -4,7 +4,7 @@ date: "2021-05-25"
 description: "comfort foods"
 ---
 
-## what i'm doing 
+## visiting wuxi
 
 An elderly man with greying hair sits in an old tank top at the dining room table in the middle of a sweltering Wuxi summer day, shelling edamame beans. The slippery beans that his rheumatic fingers have carefully extricated from their pods land in a plastic bowl with a dull thud. The ceiling fan whirs, attempting to cut through the thick, muggy air in vain. The cicadas buzz outside, their nonstop noise coming through the open windows of the apartment. 
 
