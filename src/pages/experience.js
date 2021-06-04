@@ -15,11 +15,11 @@ const NotFoundPage = ({ data, location }) => {
       <Card>
       <ul><h4>in progress:</h4>
         <li>this website! (shoutout to <a href="https://www.gatsbyjs.com">gatsby</a>{`'s`} incredible documentation)</li>
-        <li>a clean tech web app, working on design and dev</li>
       </ul>
       </Card>
       <Card>
       <ul><h4>previously:</h4> 
+        <li>a clean tech web app (terra), worked on design and dev @ innovate@ucla</li>
         <li>a covid-19 inspired game @ sbhacks 2021</li>
         <li>ghostracer, a c++ game exploring OOP and inheritance @ ucla</li>
         <li>basic versions of instagram, twitter, and imdb @ ios codepath course fall 2020</li>
@@ -35,15 +35,14 @@ const NotFoundPage = ({ data, location }) => {
         <li>content writing, sustainability research, and lots and lots of outreach and marketing @ a couple of startups :)</li>
       </ul>
       </Card>
-      <Card><h4>school orgs i'm in:</h4>
-      <ul>
+      <Card>
+      <ul><h4>school orgs i'm in:</h4>
         <li>LA Hacks (sponsorships)</li>
         <li>Daily Bruin (data journalism)</li>
         <li>Nova, Tech for Good (product + outreach)</li>
         <li>Innovate@UCLA (pm + dev)</li>
         <li>DevX (marketing)</li>
-        <li>Creative Labs (story writing)</li>
-      </ul>
+        <li>Creative Labs (story writing)</li>      </ul>
       </Card>
 
     </Layout>
