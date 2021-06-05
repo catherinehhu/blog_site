@@ -11,7 +11,7 @@ const NotFoundPage = ({ data, location }) => {
     <Layout location={location} title={siteTitle}>
       <Seo title="about" />
       <img src = "profile.jpeg" className = "profile" alt = "catherine profile"></img>
-      <h5 style = {{textAlign: 'center', marginTop: `1rem`}}></h5>
+      <h5 style = {{textAlign: 'center', marginTop: `1rem`}}>hey, look, it's me!</h5>
       <h2>who (hu) i am</h2>
         <p>Hi there! My name is Catherine Hu, and I'm a computer science and geography student @ UCLA. Welcome to my <i>always-a-work-in-progress</i> site!</p>
         <p>I first got into tech near the end of my senior year of high school (right around the beginning of quarantine) because I was drawn to its 
