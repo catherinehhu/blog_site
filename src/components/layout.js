@@ -17,14 +17,19 @@ const Layout = ({ location, title, children }) => {
           <Link className="header-link-home" to="/experience">
               experience 
           </Link>)
-  let resume_header = (<a className = "header-link-home" href="/Hu_Catherine.pdf">resume</a>)
-
+let photos_header = (
+  <Link className="header-link-home" to="/photos">
+      photos
+  </Link> 
+  )
+  // let resume_header = (<a className = "header-link-home" href="/Hu_Catherine.pdf">resume</a>)
   return (
     <div className="global-wrapper" data-is-root-path={"/"}>
       <header className="global-header">{home_header} 
       {experience_header}
       {stories_header}
-      {resume_header}
+      {photos_header}
+      {/* {resume_header} */}
       </header>
       <main>{children}</main>
       <footer>

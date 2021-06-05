@@ -11,15 +11,16 @@ const NotFoundPage = ({ data, location }) => {
     <Layout location={location} title={siteTitle}>
       <Seo title="about" />
       <img src = "profile.jpeg" className = "profile" alt = "catherine profile"></img>
-      <h5 style = {{textAlign: 'center', marginTop: `1rem`}}>hey, look, it's me!</h5>
-      <h2>who i am</h2>
-        <p>Hi there! My name is Catherine Hu, and I'm a computer science and geography student @ UCLA. Welcome to my always-a-work-in-progress site :)</p>
+      <h5 style = {{textAlign: 'center', marginTop: `1rem`}}></h5>
+      <h2>who (hu) i am</h2>
+        <p>Hi there! My name is Catherine Hu, and I'm a computer science and geography student @ UCLA. Welcome to my <i>always-a-work-in-progress</i> site!</p>
         <p>I first got into tech near the end of my senior year of high school (right around the beginning of quarantine) because I was drawn to its 
-          potential to build communities and bring people together. I'm excited to use my education and experiences to explore my creativity and passion for social impact.</p>
+          potential to build communities and bring people together. I'm excited to use my education and experiences to explore my creativity and passions for product and social impact.</p>
         <ul><h2>hobbies + interests</h2> 
           <li>writing short stories</li>
           <li>hiking</li>
           <li>stargazing</li>
+          <li>making puns</li>
           <li>coming up with exciting spotify playlist names</li>
           <li>trying new recipes</li>
           <li>talking about + eating food</li>
