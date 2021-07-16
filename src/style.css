@@ -311,6 +311,11 @@ a:focus {
   margin-bottom: var(--spacing-4);
 }
 
+.active-link{
+  color: var(--color-heading-black);
+  font-style: italic;
+}
+
 .header-link-home {
   font-weight: var(--fontWeight-bold);
   font-family: var(--font-heading);
@@ -319,18 +324,10 @@ a:focus {
   margin-right: var(--spacing-4);
 }
 
-.header-link-home:hover{
-  color: var(--color-text-light);
-  text-decoration: underline var(--color-primary);
-  font-style: italic;
+.header-link-home:hover {
+text-decoration: underline;
+text-underline-offset: var(--spacing-1);
 }
-
-/* figure out react styling active links */
-/* .header-link-home:active{ 
-  color: var(--color-heading-black);
-  text-decoration: underline var(--color-primary);
-  font-style: italic;
-} */
 
 .card{
   border-style: none; 
