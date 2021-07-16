@@ -13,7 +13,7 @@ const NotFoundPage = ({ data, location }) => {
       <h2>who (hu) i am</h2>
         <p>hey there! my name is catherine hu, and i'm a computer science and geography student @ ucla. welcome to my <i>always-a-work-in-progress</i> site!</p>
         <img src = "profile.jpeg" className = "profile" alt = "catherine profile"></img>
-      <h5 style = {{textAlign: 'center', marginTop: `1rem`}}>hey, look, it's me!</h5>
+      <h5 style = {{textAlign: 'center', marginTop: `1rem`}}>wow, look, it's me!</h5>
         <p>i first got into tech near the end of my senior year of high school (right around the beginning of quarantine) because i was drawn to its 
           potential to build communities and bring people together. i'm excited to use my education and experiences to explore my creativity and passions for product and social impact.</p>
         <p>check out the projects + work i've done <a href = "experience">here!</a></p>

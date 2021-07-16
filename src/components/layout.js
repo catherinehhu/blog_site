@@ -22,15 +22,15 @@ let photos_header = (
       photos
   </Link> 
   )
-  // let resume_header = (<a className = "header-link-home" href="/Hu_Catherine.pdf">resume</a>)
+  let resume_header = (<a className = "header-link-home" href="/CatherineHu.pdf">resume</a>)
   return (
 <div className="global-wrapper" data-is-root-path={"/"}>
       <div className = "header-style">
       <header className="global-header">{home_header} 
       {experience_header}
+      {resume_header}
       {stories_header}
       {photos_header}
-      {/* {resume_header} */}
       </header>
       </div>
       <main style ={{padding:  `5rem 5rem 0rem`}}>{children}</main>

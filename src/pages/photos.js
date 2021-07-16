@@ -12,6 +12,7 @@ const NotFoundPage = ({ data, location }) => {
       <Seo title="photos" />
 
         <h2>photos</h2>
+        <p>i'm definitely not the best photographer, but here are some of my favorite nature shots!</p>
       <i>la jolla, california: december 2020</i>
     <img src = "/photos/lajolla.jpeg" class = "gallery" alt = "la jolla, california, beach photo"></img>
     <br></br>
