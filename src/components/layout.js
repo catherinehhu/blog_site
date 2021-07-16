@@ -24,14 +24,16 @@ let photos_header = (
   )
   // let resume_header = (<a className = "header-link-home" href="/Hu_Catherine.pdf">resume</a>)
   return (
-    <div className="global-wrapper" data-is-root-path={"/"}>
+<div className="global-wrapper" data-is-root-path={"/"}>
+      <div className = "header-style">
       <header className="global-header">{home_header} 
       {experience_header}
       {stories_header}
       {photos_header}
       {/* {resume_header} */}
       </header>
-      <main>{children}</main>
+      </div>
+      <main style ={{padding:  `5rem 5rem 0rem`}}>{children}</main>
       <footer>
       <a href = "https://github.com/catherinehhu"><img src="/githublogo.png" alt="GitHub logo" width="30vh" height="30vh"></img></a>
         <a href = "https://www.linkedin.com/in/catherinehhu/"><img src="/linkedinlogo.png" alt="LinkedIn logo" width="30vh" height="30vh"></img></a>

@@ -13,16 +13,16 @@ const NotFoundPage = ({ data, location }) => {
 
         <h2>photos</h2>
       <i>la jolla, california: december 2020</i>
-    <img src = "/photos/lajolla.jpeg" class = "gallery"></img>
+    <img src = "/photos/lajolla.jpeg" class = "gallery" alt = "la jolla, california, beach photo"></img>
     <br></br>
     <i>irvine, california: january 2020</i>
-    <img src = "/photos/trail.jpeg" class = "gallery"></img>
+    <img src = "/photos/trail.jpeg" class = "gallery" alt = "irvine, california, trail at sunset"></img>
     <br></br>
     <i>cabo san lucas, baja california: december 2019</i>
-    <img src = "/photos/cabo.jpeg" class = "gallery"></img>
+    <img src = "/photos/cabo.jpeg" class = "gallery" alt = "cabo san lucas, harbor"></img>
     <br></br>
     <i>峨眉山 (emeishan), sichuan: august 2019</i>
-    <img src = "/photos/emeishan.jpeg" class = "gallery"></img>
+    <img src = "/photos/emeishan.jpeg" class = "gallery" alt = "emeishan, view at peak"></img>
     <br></br>
     </Layout>
   )

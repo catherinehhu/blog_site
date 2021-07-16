@@ -2,11 +2,11 @@ module.exports = {
   siteMetadata: {
     title: `catherine hu`,
     author: {
-      name: `Catherine Hu`,
-      summary: `a computer science and geography student at UCLA with a terrible sense of direction and a passion for storytelling`,
+      name: `catherine hu`,
+      summary: `a computer science and geography student at ucla with a terrible sense of direction and a passion for storytelling`,
     },
-    description: `A personal blog by Catherine.`,
-    siteUrl: `https://catherinehhu.com/`,
+    description: `personal blog + portfolio site by catherine.`,
+    siteUrl: `https://catherinehhu.com`,
     social: {
       twitter: `_catherinehu`,
     },

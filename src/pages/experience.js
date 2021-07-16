@@ -4,6 +4,7 @@ import { graphql } from "gatsby"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
 import Card from "../components/card"
+import Container from "../components/container"
 
 const NotFoundPage = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata.title
@@ -12,6 +13,8 @@ const NotFoundPage = ({ data, location }) => {
     <Layout location={location} title={siteTitle}>
       <Seo title="experience" />
       <h2>projects</h2>
+      {/* <Container>
+      </Container> */}
       <Card>
       <ul><h4>in progress:</h4>
         <li>this website! (shoutout to <a href="https://www.gatsbyjs.com">gatsby</a>{`'s`} incredible documentation)</li>
@@ -35,8 +38,9 @@ const NotFoundPage = ({ data, location }) => {
         <li>content writing, sustainability research, and lots and lots of outreach and marketing @ a couple of startups :)</li>
       </ul>
       </Card>
+      <h2>school</h2>
       <Card>
-      <ul><h4>school orgs i'm in:</h4>
+      <ul><h4>orgs i'm in:</h4>
         <li>LA Hacks (sponsorships)</li>
         <li>Daily Bruin (data journalism @ the stack)</li>
         <li>Nova, Tech for Good (product + outreach)</li>

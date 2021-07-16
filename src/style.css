@@ -11,7 +11,7 @@
   --maxWidth-3xl: 48rem;
   --maxWidth-4xl: 56rem;
   --maxWidth-full: "100%";
-  --maxWidth-wrapper: var(--maxWidth-2xl);
+  --maxWidth-wrapper: var(--maxWidth-4xl);
   --spacing-px: "1px";
   --spacing-0: 0;
   --spacing-1: 0.25rem;
@@ -90,7 +90,7 @@ body {
 }
 
 footer {
-  padding: var(--spacing-6) var(--spacing-0);
+  padding: var(--spacing-3) var(--spacing-0) var(--spacing-12);
 text-align: center;
 }
 footer a{
@@ -139,6 +139,9 @@ h1 {
 
 h2 {
   font-size: var(--fontSize-5);
+  text-underline-offset: var(--spacing-2);
+  text-decoration: underline var(--color-primary);
+  text-decoration-thickness: var(--spacing-1);
 }
 
 h3 {
@@ -261,7 +264,7 @@ a:focus {
 .global-wrapper {
   margin: var(--spacing-0) auto;
   max-width: var(--maxWidth-wrapper);
-  padding: var(--spacing-10) var(--spacing-5);
+  padding-top: var(--spacing-0); 
 }
 
 .global-wrapper[data-is-root-path="true"] .bio {
@@ -270,7 +273,16 @@ a:focus {
 }
 
 .global-header {
-  margin-bottom: var(--spacing-12);
+  margin-bottom: var(--spacing-3);
+  margin-top: var(--spacing-3);
+  padding: var(--spacing-3) var(--spacing-6); 
+}
+
+.header-style{
+  background-color: var(--color-background);
+  position: fixed;
+  width: var(--maxWidth-wrapper);
+  z-index: 1;
 }
 
 
@@ -313,6 +325,13 @@ a:focus {
   font-style: italic;
 }
 
+/* figure out react styling active links */
+/* .header-link-home:active{ 
+  color: var(--color-heading-black);
+  text-decoration: underline var(--color-primary);
+  font-style: italic;
+} */
+
 .card{
   border-style: none; 
   padding-left: var(--spacing-8);
@@ -338,6 +357,13 @@ a:focus {
 
 .card p{
   margin-bottom: 0;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  align-items: center;
 }
 
 .gallery {
