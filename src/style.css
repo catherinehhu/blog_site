@@ -281,7 +281,7 @@ a:focus {
 .header-style{
   background-color: var(--color-background);
   position: fixed;
-  width: var(--maxWidth-wrapper);
+  width: var(--maxWidth-xl);
   z-index: 1;
 }
 
@@ -321,7 +321,7 @@ a:focus {
   font-family: var(--font-heading);
   text-decoration: none;
   font-size: var(--fontSize-2);
-  margin-right: var(--spacing-4);
+  margin-right: var(--spacing-2);
 }
 
 .header-link-home:hover {
@@ -431,4 +431,12 @@ text-underline-offset: var(--spacing-1);
   ol {
     list-style-position: inside;
   }
+
+  .header-link-home{
+    font-size: var(--fontSize-1);
+  }
+  .header-style{
+    width: var(--maxWidth-xs); 
+  }
 }
+
