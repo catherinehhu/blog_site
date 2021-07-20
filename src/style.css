@@ -281,7 +281,7 @@ a:focus {
 .header-style{
   background-color: var(--color-background);
   position: fixed;
-  width: var(--maxWidth-xl);
+  width: var(--maxWidth-wrapper);
   z-index: 1;
 }
 
@@ -431,12 +431,15 @@ text-underline-offset: var(--spacing-1);
   ol {
     list-style-position: inside;
   }
+  p{
+    font-size: var(--fontSize-0);
+  }
 
   .header-link-home{
-    font-size: var(--fontSize-1);
+    font-size: var(--fontSize-0);
   }
   .header-style{
-    width: var(--maxWidth-xs); 
+    width: var(--maxWidth-wrapper); 
   }
 }
 

@@ -23,6 +23,7 @@ const BlogIndex = ({ data, location }) => {
     <Layout location={location} title={siteTitle}>
       <Seo title="stories" />
       <h2>words i've written</h2>
+      <p>🔨 new stories currently floundering in the development hell that is my fifty page microsoft word doc. check back later—i'm working on some stuff, i promise!</p>
       <ol style={{ listStyle: `none` }}>
         {posts.map(post => {
           const title = post.frontmatter.title || post.fields.slug
