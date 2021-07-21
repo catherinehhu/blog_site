@@ -15,12 +15,13 @@ const NotFoundPage = ({ data, location }) => {
       <h2>projects</h2>
       {/* <Container>
       </Container> */}
-      <Card>
+      {/* <Card> */}
       <ul><h4>in progress:</h4>
-        <li>this site! a blog/portfolio/everything-about-me built with gatsby</li>
+        <li>this everything-about-me site built with gatsby</li>
+        <li>chrome extension for sustainable shopping</li>
       </ul>
-      </Card>
-      <Card>
+      {/* </Card>
+      <Card> */}
       <ul><h4>previously:</h4> 
         <li>terra, a composting web app prototyped @ innovate@ucla</li>
         <li>the 2020 experience, a social distancing inspired game @ sbhacks 2021</li>
@@ -31,24 +32,28 @@ const NotFoundPage = ({ data, location }) => {
         <li><a href = "https://xd.adobe.com/view/908b75b8-9f91-48ae-8ef2-04fcd102081f-c5d8/">designerth</a>, a prototype of a design-education tablet app @ adobe x amazon creative jam</li>
         <li>a functional <a href = "https://www.beckman-foundation.org/people/catherine-hu/">spectrophotometer</a> out of legos @ arnold & mabel beckman foundation</li>
       </ul>
-      </Card>
+      {/* </Card> */}
       <h2>work</h2>
-      <Card>
+      {/* <Card> */}
       <ul><h4>internships:</h4>
-        <li>content writing, sustainability research, and lots and lots of outreach and marketing @ a couple of startups :)</li>
+      <li>product management @ urx</li>
+      <li>product marketing @ hoamsy</li>
+      <li>sustainability research + analysis @ voiz</li>
+      <li>content writing @ city flavor</li>
       </ul>
-      </Card>
+      {/* </Card> */}
       <h2>school</h2>
-      <Card>
+      {/* <Card> */}
       <ul><h4>orgs i'm in:</h4>
         <li>LA Hacks (sponsorships)</li>
-        <li>Daily Bruin (data journalism @ the stack)</li>
+        <li>Daily Bruin (data journalism @ the stack, science + health @ news)</li>
         <li>Nova, Tech for Good (product + outreach)</li>
         <li>Innovate@UCLA (pm + dev)</li>
         <li>DevX (marketing)</li>
-        <li>Creative Labs (story writing)</li>      
+        <li>Creative Labs (story writing)</li>
+        <li>BruinLabs (pm)</li>      
         </ul>
-      </Card>
+      {/* </Card> */}
 
     </Layout>
   )
