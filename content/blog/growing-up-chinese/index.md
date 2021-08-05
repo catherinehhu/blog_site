@@ -18,7 +18,7 @@ She will laugh at your paper and say “That looks funny,” as the pride you fe
 
 Years later, in a new country, a boy at your school will pull back his big blue eyes into slits and squint at you, the quiet Chinese girl with monolids, as words like *dogeater* and *ching chong* drip from his cruel lips like venom.  
 
-You will feel so, so, **so** helpless as your rage burns inside you but you are too scared to fight back. 
+You will feel so, so, **so** helpless as your rage burns inside you but you will be too scared to fight back. 
 
 After all, you had watched your family endure the same thing for years—as if every instance was another stabbing reminder that you were all here on fragile, borrowed time. A single misstep would be devastating. That was the fear your parents had taught you. 
 
@@ -28,7 +28,7 @@ As you grow up, you will come to realize the pain your parents endured for the p
 
 You will see their brand of stoicism with its impenetrable stone walls crack as you grow up and finally learn to recognize vulnerability. 
 
-When your father gets called *a fucking chink* in the streets of one of the safest cities in the United States and your mother does not tell you until multiples days and multiple instances later, and you are filled with the same burning fury you felt when the boy laughed at your eyes and asked if you ate dogs. 
+When your father gets called *a fucking chink* in the streets of one of the safest cities in the United States and your mother does not tell you until multiples days and multiple instances later, you will be filled with the same helpless, burning fury you felt when the boy laughed at your eyes and asked if you ate dogs. 
 
 Or, when they tell you to be careful, to not be so Chinese in your daily life, to avoid Chinatowns, to do anything to minimize the target on your back, you will see their stone walls crumble, and every time, your own heart will shatter. 
 

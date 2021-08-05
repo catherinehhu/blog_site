@@ -23,9 +23,9 @@ const NotFoundPage = ({ data, location }) => {
       {/* </Card>
       <Card> */}
       <ul><h4>previously:</h4> 
-        <li>terra, a composting web app prototyped @ innovate@ucla</li>
+        <li><a href = "https://www.figma.com/proto/B0L3QPXrUq8pMyfb5mPHQI/Prototypes?node-id=0%3A1">terra</a>, a composting web app prototyped @ innovate@ucla</li>
         <li>the 2020 experience, a social distancing inspired game @ sbhacks 2021</li>
-        <li>ghostracer, a c++ game exploring OOP and inheritance @ ucla</li>
+        <li><a href = "https://github.com/catherinehhu/GhostRacer">ghostracer</a>, a c++ game exploring OOP and inheritance @ ucla</li>
         <li>basic versions of instagram, twitter, and imdb @ ios codepath course fall 2020</li>
         <li><a href = "https://covalent.app/">covalent</a>, a web app for remote team bonding, contributed to front end dev</li>
         <li>fireride, a firebase web app for coordinating wildfire evacuations @ pennapps 2020</li>
