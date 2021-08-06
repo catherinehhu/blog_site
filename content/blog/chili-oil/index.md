@@ -17,7 +17,7 @@ Years later, during my first visit to see *yeye* after his stroke, he asked me, 
 
 And so, with those six little words, my world shattered. 
 
-I come from a family with no written histories or records. Instead, my past is preserved in story-filled recipes—passed from generation to generation through moments like the lazy Sunday afternoon when I made dumplings with *yeye* and he decided that we needed something spicy to pair with the subtle richness of the pork- and-Napa-cabbage filling. 
+I come from a family with no written histories or records. Instead, my past is preserved in story-filled recipes—passed from generation to generation through moments like the lazy Sunday afternoon when I made dumplings with *yeye* and he decided that we needed something spicy to pair with the subtle richness of the pork-and-Napa-cabbage filling. 
 
 So, with those simple words, I lost him. I lost the still untold stories of his childhood, the still unrecounted memories, the still unlived moments with him. I lost the tie I had to that house built out of the clay upon which it stands, nestled in an emerald-green forest of bamboo, to our family’s history. 
 Now, standing in the kitchen, I find myself carefully pouring the boiling hot canola oil into a blend of peppers in the same way that he once had. It sizzles and hisses when it hits the concoction of numbing peppercorns and fiery-red chilli peppers. While the oil quiets and stills, it fills the room with a warm fragrance that tingles my nose and transports me back to the home I’d only ever visited once, long, long ago—a house built out of the clay upon which it stands, nestled in an emerald-green forest of bamboo. 
