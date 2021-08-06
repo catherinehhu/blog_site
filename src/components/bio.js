@@ -49,7 +49,7 @@ const Bio = () => {
           <br></br>
           you should follow her on <a href={`https://twitter.com/${social?.twitter || ``}`}>
             twitter
-          </a> (<i>but brace yourself for mediocre jokes and existential crises</i>).
+          </a> (<i>brace yourself for mediocre jokes and existential crises</i>).
         </p>
       )}
     </div>

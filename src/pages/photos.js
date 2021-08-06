@@ -14,7 +14,7 @@ const NotFoundPage = ({ data, location }) => {
         <h2>photos</h2>
         <p>i'm definitely not the best photographer, but here are some of my favorite nature shots!</p>
       <i>la jolla, california: december 2020</i>
-    <img src = "/photos/lajolla.jpeg" class = "gallery" alt = "la jolla, california, beach photo"></img>
+    <img src = "/photos/lajolla.jpeg" class = "gallery" alt = "la jolla, california, beach"></img>
     <br></br>
     <i>irvine, california: january 2020</i>
     <img src = "/photos/trail.jpeg" class = "gallery" alt = "irvine, california, trail at sunset"></img>

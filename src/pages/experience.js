@@ -3,8 +3,8 @@ import { graphql } from "gatsby"
 
 import Layout from "../components/layout"
 import Seo from "../components/seo"
-import Card from "../components/card"
-import Container from "../components/container"
+// import Card from "../components/card"
+// import Container from "../components/container"
 
 const NotFoundPage = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata.title
@@ -36,10 +36,10 @@ const NotFoundPage = ({ data, location }) => {
       <h2>work</h2>
       {/* <Card> */}
       <ul><h4>internships:</h4>
-      <li>product management @ urx</li>
-      <li>product marketing @ hoamsy</li>
-      <li>sustainability research + analysis @ voiz</li>
-      <li>content writing @ city flavor</li>
+      <li>product management @ urx — summer 2021</li>
+      <li>product marketing @ hoamsy — summer 2021</li>
+      <li>sustainability research + analysis @ voiz — spring 2021</li>
+      <li>content writing @ city flavor — summer 2020</li>
       </ul>
       {/* </Card> */}
       <h2>school</h2>
