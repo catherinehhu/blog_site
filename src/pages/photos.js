@@ -10,21 +10,48 @@ const NotFoundPage = ({ data, location }) => {
   return (
     <Layout location={location} title={siteTitle}>
       <Seo title="photos" />
+      <h2>photos</h2>
+      <p>
+        i'm definitely not the best photographer, but here are some of my
+        favorite nature shots!
+      </p>
+      <div class="img-wrap">
+        <img
+          src="/photos/lajolla.jpeg"
+          class="gallery"
+          alt="la jolla, california, beach"
+        ></img>
+        <p class="img-description"><i>la jolla, california: december 2020</i></p>
+      </div>
+      <br></br>
+      <div class="img-wrap">
+        <img
+          src="/photos/trail.jpeg"
+          class="gallery"
+          alt="irvine, california, trail at sunset"
+        ></img>
+        <p class="img-description"><i>irvine, california: january 2020</i></p>
+      </div>
 
-        <h2>photos</h2>
-        <p>i'm definitely not the best photographer, but here are some of my favorite nature shots!</p>
-      <i>la jolla, california: december 2020</i>
-    <img src = "/photos/lajolla.jpeg" class = "gallery" alt = "la jolla, california, beach"></img>
-    <br></br>
-    <i>irvine, california: january 2020</i>
-    <img src = "/photos/trail.jpeg" class = "gallery" alt = "irvine, california, trail at sunset"></img>
-    <br></br>
-    <i>cabo san lucas, baja california: december 2019</i>
-    <img src = "/photos/cabo.jpeg" class = "gallery" alt = "cabo san lucas, harbor"></img>
-    <br></br>
-    <i>峨眉山 (emeishan), sichuan: august 2019</i>
-    <img src = "/photos/emeishan.jpeg" class = "gallery" alt = "emeishan, view at peak"></img>
-    <br></br>
+      <br></br>
+      <div class="img-wrap">
+        <img
+          src="/photos/cabo.jpeg"
+          class="gallery"
+          alt="cabo san lucas, harbor"
+        ></img>
+        <p class="img-description"><i>cabo san lucas, baja california: december 2019</i></p>
+      </div>
+      <br></br>
+      <div class="img-wrap">
+        <img
+          src="/photos/emeishan.jpeg"
+          class="gallery"
+          alt="emeishan, view at peak"
+        ></img>
+        <p class="img-description"><i>峨眉山 (emeishan), sichuan: august 2019</i></p>
+      </div>
+      <br></br>
     </Layout>
   )
 }

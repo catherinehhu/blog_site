@@ -30,6 +30,7 @@ const NotFoundPage = ({ data, location }) => {
         <li><a href = "https://covalent.app/">covalent</a>, a web app for remote team bonding, contributed to front end dev</li>
         <li>fireride, a firebase web app for coordinating wildfire evacuations @ pennapps 2020</li>
         <li><a href = "https://xd.adobe.com/view/908b75b8-9f91-48ae-8ef2-04fcd102081f-c5d8/">designerth</a>, a prototype of a design-education tablet app @ adobe x amazon creative jam</li>
+        <li><a href = "https://dailybruin.com/author/chumedia-ucla-edu">writing + data</a> @ the daily bruin</li>
         <li>a functional <a href = "https://www.beckman-foundation.org/people/catherine-hu/">spectrophotometer</a> out of legos @ arnold & mabel beckman foundation</li>
       </ul>
       {/* </Card> */}
