@@ -13,7 +13,9 @@ In that home, he learned how to make chilli oil, how to add hot oil into spices 
 
 Years later, during my first visit to see *yeye* after his stroke, he asked me, "小姑娘，你是谁?" *Little girl, who are you?*
 
-*Yeye*, who am I? I am your youngest granddaughter. I am the child you took care of in Canada. You gave me my last name. I got my love of erhu music from you. My nose crinkles the same way as yours when I laugh. 
+*Yeye*, who am I? I am your youngest granddaughter. I am the child you took care of in Canada. You gave me my last name. I got my love of erhu music from you. My nose crinkles in the same way that yours does when I laugh. 
+
+*** 
 
 And so, with those six little words, my world shattered. 
 
@@ -24,7 +26,7 @@ Now, standing in the kitchen, I find myself carefully pouring the boiling hot ca
 
 I’ve come to understand the true importance of the knowledge *yeye* gave me, for those recipes hold more than lists of ingredients. I’ve come to believe that food serves as an otherworldly bridge to rich, vivid memories between people. Seeing the chilli oil cooling on my counter, to be used to season dandan noodles or to flavor homemade pickled garlic, I remember the moments I never knew and rediscover the ties to family that I thought had been lost. 
 
-As I’ve grown up in California, food has been the medium through which I’ve made new families and found new communities throughout high school and college. After all, nothing builds bonds like trying ghost pepper flavored chips and eating spicy instant ramen together at 1 am.
+As I’ve grown up in California, food has been the medium through which I’ve made new families and found new communities throughout high school and college. After all, nothing builds bonds quite like trying ghost pepper flavored chips and eating spicy instant ramen together at 1 am.
 
 Food brings people together. During these moments, I'm reminded of my *yeye* when we made chilli oil together for the first time on that lazy Sunday afternoon because it feels like he’s teaching me how food can heal and connect—transcending language, distance, and time—all over again. 
 

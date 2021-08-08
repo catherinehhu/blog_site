@@ -1,6 +1,6 @@
 ---
 title: a cbc in the usa 
-date: "2021-06-01"
+date: "2021-07-01"
 description: "cbc = chinese born canadian."
 ---
 
