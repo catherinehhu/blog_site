@@ -6,13 +6,13 @@ description: "the many, many routes that i took."
 
 ## welcome to comp sci 
 
-In my final year of high school, I learned to code for the first time in my computer science class. Sitting in front of the blinking IDE with angry red squiggles and incomprehensible error messages, learning Java was a struggle. Everything seemed so *foreign* to me—and even when I finally began to grasp the concepts, I could never understand why I was learning this. A lack of class projects meant that I was learning how to use strings and arrays without any meaningful application. 
+In my final year of high school, I learned to code for the first time in my computer science class. Sitting in front of the blinking IDE with angry red squiggles and incomprehensible error messages, I struggled to learn Java. Everything seemed so *foreign* to me—and even when I finally began to grasp the concepts, I could never understand why I was learning this. A lack of class projects meant that I was learning how to use strings and arrays without seeing any meaningful application. 
 
 I was confused, and honestly, I couldn’t see myself pursuing this in my education—I couldn’t see myself making the impact I’d dreamt of having with a career in tech. 
 
 Then, COVID came. 
 
-My family in China, and in particular, Wuhan, was placed on lockdowns with the rest of the country. 
+My family in China, and in particular, Wuhan, was placed on lockdown with the rest of the country. 
 
 I used WeChat to videocall my grandparents and relatives every day, who were unable to leave their apartments for months, utterly grateful that I’d been able to teach my grandparents how to use the app on their tablets and phones just a few years prior. 
 

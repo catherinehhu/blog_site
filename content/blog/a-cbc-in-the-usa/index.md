@@ -12,7 +12,7 @@ The restaurant doesn’t mind. It’s not like they wanted to serve that odd-loo
 
 Over time, that memory will fade. Faces will grow blurry, but every day, you will walk past that place on your way to school and the feeling of unresolved pain will linger. As that memory blurs away, new ones will arrive to take its place.  
 
-At school, your teachers will mispronounce your last name and you will never understand why—it’s only two letters and a five-year old could probably sound it out. You will become best friends with a Korean girl in first grade. One day, when you start talking about how your middle name represents your Chinese name, writing it out in its Romanized form, the round sounds of Mandarin crudely approximated in the Latin alphabet. 
+At school, your teachers will mispronounce your last name and you will never understand why—it’s only two letters and a five-year old could probably sound it out. You will become best friends with a Korean girl in first grade. One day, when you start talking about how your middle name represents your Chinese name, you will write it out in its Romanized form, the round sounds of Mandarin crudely approximated in the Latin alphabet. 
 
 She will laugh at your paper and say “That looks funny,” as the pride you felt in the beautiful words your parents gave you is replaced with unwarranted shame. Face flushed red, you will erase them from the page.  
 

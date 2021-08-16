@@ -37,6 +37,7 @@ const NotFoundPage = ({ data, location }) => {
       <h2>work</h2>
       {/* <Card> */}
       <ul><h4>internships:</h4>
+      <li>product @ rising academy network — fall 2021</li>
       <li>product management @ urx — summer 2021</li>
       <li>product marketing @ hoamsy — summer 2021</li>
       <li>sustainability research + analysis @ voiz — spring 2021</li>
@@ -46,9 +47,9 @@ const NotFoundPage = ({ data, location }) => {
       <h2>school</h2>
       {/* <Card> */}
       <ul><h4>orgs i'm in:</h4>
-        <li>LA Hacks (sponsorships)</li>
+        <li>LA Hacks (director of sponsorships)</li>
         <li>Daily Bruin (data journalism @ the stack, science + health @ news)</li>
-        <li>Nova, Tech for Good (product + outreach)</li>
+        <li>Nova, Tech for Good (product + outreach manager)</li>
         <li>Innovate@UCLA (pm + dev)</li>
         <li>DevX (marketing)</li>
         <li>Creative Labs (story writing)</li>
