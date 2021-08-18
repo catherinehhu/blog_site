@@ -12,7 +12,7 @@ const NotFoundPage = ({ data, location }) => {
       <Seo title="photos" />
       <h2>photos</h2>
       <p>
-        i'm definitely not the best photographer, but here are some of my
+        i'm not the best photographer, but here are some of my
         favorite nature shots!
       </p>
       <div class="img-wrap">

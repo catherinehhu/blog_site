@@ -4,25 +4,25 @@ import { Link } from "gatsby"
 
 const Layout = ({ location, title, children }) => {
   let home_header = (
-      <Link className="header-link-home" activeClassName = "active-link" to="/">
+      <Link className="header-link-home" activeclassname = "active-link" to="/">
         {title}
       </Link> 
       )
   let stories_header = (
-        <Link className="header-link-home" activeClassName = "active-link" to="/stories">
+        <Link className="header-link-home" activeclassname = "active-link" to="/stories">
             stories
         </Link> 
         )
         let experience_header = (
-          <Link className="header-link-home" activeClassName = "active-link" to="/experience">
+          <Link className="header-link-home" activeclassname = "active-link" to="/experience">
               experience 
           </Link>)
 let photos_header = (
-  <Link className="header-link-home" activeClassName = "active-link" to="/photos">
+  <Link className="header-link-home" activeclassname = "active-link" to="/photos">
       photos
   </Link> 
   )
-  let resume_header = (<a className = "header-link-home" activeClassName = "active-link" href="/CatherineHu.pdf">resume</a>)
+  let resume_header = (<a className = "header-link-home" activeclassname = "active-link" href="/CatherineHu.pdf">resume</a>)
   return (
 <div className="global-wrapper" data-is-root-path={"/"}>
       <div className = "header-style">
