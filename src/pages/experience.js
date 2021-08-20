@@ -14,14 +14,15 @@ const NotFoundPage = ({ data, location }) => {
     <Layout location={location} title={siteTitle}>
       <Seo title="experience" />
       <h5 style={{ textAlign: "center", marginTop: `1rem` }}>
-        scroll thru to see my dev/design projects, work, and student org involvement!
-      </h5> 
+        scroll thru to see my dev/design projects, work, and student org
+        involvement! (site still under construction)
+      </h5>
 
       <Container
-        title="in progress"
-        desc="hello this is where the description will be lets add more words lad jadhfl cjadshfjadhf"
+        title="in progress projects"
+        desc="this website about me (built with gatsby) + a sustainable shopping chrome extension"
         // imgLocation="/experiences/covalent.png"
-        // link="https://covalent.app/"
+        link="https://catherinehhu.com/"
       ></Container>
 
       <Container
@@ -45,7 +46,7 @@ const NotFoundPage = ({ data, location }) => {
         link="https://github.com/catherinehhu/GhostRacer"
       ></Container>
 
-    <Container
+      <Container
         title="ios apps"
         desc="created versions of instagram, twitter, and imdb @ ios codepath course fall 2020"
         imgLocation="/experiences/flix.png"
@@ -62,21 +63,26 @@ const NotFoundPage = ({ data, location }) => {
       <Container
         title="beckman spectrophotometer"
         desc="built a spectrophotometer out of legos @ arnold & mabel beckman foundation"
-        // imgLocation="/experiences/covalent.png"
+        imgLocation="/experiences/beckman.png"
         link="https://www.beckman-foundation.org/people/catherine-hu/"
       ></Container>
 
+      <Container
+        title="work + internships"
+        // imgLocation="/experiences/ucla.png"
+        desc="product development, product marketing, sustainability, content writing"
+        link="https://www.linkedin.com/in/catherinehhu/"
+      ></Container>
 
-
+      <Container
+        title="ucla organizations"
+        imgLocation="/experiences/ucla.png"
+        desc="LA Hacks, Daily Bruin, Nova for Good, Innovate@UCLA, DevX, CreativeLabs, BruinLabs"
+        link="https://www.ucla.edu/"
+      ></Container>
 
       {/* 
-
-
       {/* <h2>projects</h2>
-      <ul><h4>in progress:</h4>
-        <li>this everything-about-me site built with gatsby</li>
-        <li>chrome extension for sustainable shopping</li>
-      </ul>
       <ul><h4>previously:</h4> 
         <li>the 2020 experience, a social distancing inspired game @ sbhacks 2021</li>
         <li>fireride, a firebase web app for coordinating wildfire evacuations @ pennapps 2020</li>
@@ -90,15 +96,6 @@ const NotFoundPage = ({ data, location }) => {
       <li>sustainability research + analysis @ voiz — spring 2021</li>
       <li>content writing @ city flavor — summer 2020</li>
       </ul>
-      <h2>school</h2>
-      <ul><h4>orgs i'm in:</h4>
-        <li>LA Hacks (director of sponsorships)</li>
-        <li>Daily Bruin (data journalism @ the stack, science + health @ news)</li>
-        <li>Nova, Tech for Good (product + outreach manager)</li>
-        <li>Innovate@UCLA (pm + dev)</li>
-        <li>DevX (marketing)</li>
-        <li>Creative Labs (story writing)</li>
-        <li>BruinLabs (pm)</li>      
         </ul> */}
     </Layout>
   )
