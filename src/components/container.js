@@ -4,7 +4,7 @@ const Container = ({desc, title, imgLocation, link}) => {
   return (
     <div>
         <div className = "container">
-          <a href = {link}><img className = "container-img" src={imgLocation} style = {{width: `25vw`}}/></a>
+          <a href = {link}><img className = "container-img" src={imgLocation} style = {{width: `25vw`, height: `30vh`, objectFit: `contain`}}/></a>
           <div className = "vertical-line"></div>
           <div><ul><h4>{title}</h4>
             <li>{desc}</li></ul></div>

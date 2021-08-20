@@ -22,13 +22,13 @@ let photos_header = (
       photos
   </Link> 
   )
-  let resume_header = (<a className = "header-link-home" activeclassname = "active-link" href="/CatherineHu.pdf">resume</a>)
+  // let resume_header = (<a className = "header-link-home" activeclassname = "active-link" href="/CatherineHu.pdf">resume</a>)
   return (
 <div className="global-wrapper" data-is-root-path={"/"}>
       <div className = "header-style">
       <header className="global-header">{home_header} 
       {experience_header}
-      {resume_header}
+      {/* {resume_header} */}
       {stories_header}
       {photos_header}
       </header>
