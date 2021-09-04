@@ -15,19 +15,26 @@ const NotFoundPage = ({ data, location }) => {
       <Seo title="experience" />
       <h5 style={{ textAlign: "center", marginTop: `1rem` }}>
         scroll thru to see my dev/design projects, work, and student org
-        involvement! (site still under construction)
+        involvement!
       </h5>
 
       <Container
         title="in progress projects"
-        desc="this website about me (built with gatsby) + a sustainable shopping chrome extension"
+        desc="this website about me (built with gatsby) and a collection of short stories on love (hoping to publish in 2022)"
         // imgLocation="/experiences/covalent.png"
         link="https://catherinehhu.com/"
       ></Container>
 
       <Container
+        title="symbia"
+        desc="a prototype of a gamified app that incentivizes people to recycle properly @ adobe x target creative jam (finalist)"
+        imgLocation="/experiences/symbia.png"
+        link="https://xd.adobe.com/view/81e42596-b424-47e5-81c6-44f31bdb664b-d4b7/"
+      ></Container>
+
+      <Container
         title="covalent"
-        desc="a web app for remote team bonding, contributed to front end dev"
+        desc="a web app for remote team bonding, contributed to front end dev and launched marketing campaigns"
         imgLocation="/experiences/covalent.png"
         link="https://covalent.app/"
       ></Container>
