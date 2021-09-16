@@ -18,6 +18,6 @@ I have a folder on my computer of Word docs with vaguely-titled names, like “e
 
 On the Notes app on my phone, I keep one massive document called “good words,” where I have a running list of all my current favorite words, like *phantasmagoric* and *ephemeral* and *diaphanous*. They just sound right.  
 
-During road trips and morning walks, I jot down notes, random ideas, anything that comes to mind, either on an index card, in an empty notebook, or in my phone.  
+During 6 hour road trips and 6 am morning walks, I jot down notes, random ideas, anything that comes to mind, either on an index card, in an empty notebook, or in my phone.  
 
 Maybe I'll have a groundbreaking idea one day, with a plot and a world I can spend 1000 pages building and developing—write my own memoir, too—but for now, I'm keeping my stories and sporadic bursts of inspiration here. 

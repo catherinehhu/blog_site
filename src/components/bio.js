@@ -44,12 +44,12 @@ const Bio = () => {
       />
       {author?.name && (
         <p>
-          word chaos by <strong>{author.name}</strong>, {author?.summary || null}
-.          {` `}
+          word chaos by <strong>{author.name}</strong>,{" "}
+          {author?.summary || null}. {` `}
           <br></br>
-          you should follow her on <a href={`https://twitter.com/${social?.twitter || ``}`}>
-            twitter
-          </a> (<i>brace yourself for mediocre jokes and existential crises</i>).
+          you should follow her on{" "}
+          <a href={`https://twitter.com/${social?.twitter || ``}`}>twitter</a> (
+          <i>apologies in advance for the mediocre jokes</i>).
         </p>
       )}
     </div>

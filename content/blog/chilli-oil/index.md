@@ -15,8 +15,6 @@ Years later, during my first visit to see *yeye* after his stroke, he asked me, 
 
 *Yeye*, who am I? I am your youngest granddaughter. I am the child you took care of in Canada. You gave me my last name. I got my love of erhu music from you. My nose crinkles in the same way that yours does when I laugh. 
 
-*** 
-
 And so, with those six little words, my world shattered. 
 
 I come from a family with no written histories or records. Instead, my past is preserved in story-filled recipes—passed from generation to generation through moments like the lazy Sunday afternoon when I made dumplings with *yeye* and he decided that we needed something spicy to pair with the subtle richness of the pork-and-Napa-cabbage filling. 

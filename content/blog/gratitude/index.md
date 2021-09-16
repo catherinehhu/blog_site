@@ -20,12 +20,14 @@ In high school, I even wrote my final article for our school newspaper on gratit
 
 “Gratitude for the little things, the big things and all things in between,” I had [written](https://thehowleronline.org/1679/special/a-thank-you-letter-to-nhs/). In it, I talked about my gratitude for the experiences and people who’ve shaped me into the person I am today. 
 
-It’s been just over a year since I wrote that article. A lot has happened since then, but I still find myself reflecting on gratitude. 
+It’s been just over a year since I wrote that article. A lot has happened since then, but I still find myself reflecting on that notion, that gratitude is an immense, immeasureable thing. 
 
-Gratitude for the teachers who taught me to read and love learning in my most formative years in Canada, for the educators who helped me explore STEM in Irvine, for the UCLA professors who welcomed me to college, even as I hid behind a screen on Zoom for an entire year.  Gratitude for my parents, who nodded when I talked through my pseudocode despite not understanding a single word I said and left sliced oranges and pears on the table when I emerged from my room at midnight. Gratitude for the clubs and organizations that truly made my first year of college unforgettable. Gratitude for all the people who embraced an awkward introvert with open arms to a virtual campus.
+Gratitude for the teachers who taught me to read and love learning in my most formative years in Canada, for the educators who helped me explore STEM in Irvine, for the UCLA professors who welcomed me to college, even as I hid behind a screen on Zoom for an entire year. 
 
-Gratitude is such a deep, complex concept. 
+Gratitude for my parents, who nodded when I talked through my pseudocode despite not understanding a single word I said and left sliced oranges and pears on the table when I emerged from my room at midnight. Gratitude for the clubs and organizations that truly made my first year of college unforgettable. Gratitude for all the people who embraced an awkward introvert with open arms to a virtual campus. I owe it all to them. 
 
-I pride myself on my love for writing. But I’ve always been bad at writing thank you notes. Because I always find myself wondering, how do I adequately convey my gratitude to someone who put their own time and energy into helping me grow and become a better person? 
+It's funny—I pride myself on my love for writing, but I’ve always struggled with writing coherent thank you notes—I write and rewrite until my brain is exhausted and it sounds okay-ish(?).  
 
-How do I even begin to acknowledge that in words? 
+Because I always find myself wondering, how do I adequately convey my gratitude to someone who put their own time and energy into helping me grow and become a better person? 
+
+Gratitude is such a deep, complex concept. How do I even begin to acknowledge that in words? 
