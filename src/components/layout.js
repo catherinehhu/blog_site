@@ -8,11 +8,11 @@ const Layout = ({ location, title, children }) => {
         {title}
       </Link> 
       )
-  let stories_header = (
-        <Link className="header-link-home" activeclassname = "active-link" to="/stories">
-            stories
-        </Link> 
-        )
+  // let stories_header = (
+  //       <Link className="header-link-home" activeclassname = "active-link" to="/stories">
+  //           stories
+  //       </Link> 
+  //       )
         let experience_header = (
           <Link className="header-link-home" activeclassname = "active-link" to="/experience">
               experience 
@@ -29,7 +29,7 @@ let photos_header = (
       <header className="global-header">{home_header} 
       {experience_header}
       {/* {resume_header} */}
-      {stories_header}
+      {/* {stories_header} */}
       {photos_header}
       </header>
       </div>
