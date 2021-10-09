@@ -18,7 +18,7 @@ const NotFoundPage = ({ data, location }) => {
 
       <Container
         title="currently:"
-        desc="writing a collection of short stories inspired by my life (finished in 2022) + organizing my life on notion"
+        desc="writing a collection of short stories inspired by my life (to be finished in 2022) + organizing my life on notion"
         imgLocation="/experiences/notion.png"
         link="https://catherinehhu.com/"
       ></Container>

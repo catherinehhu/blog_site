@@ -8,8 +8,9 @@ description: "to be an adult."
 and here you are again  
 
 driving past your elementary school     
-to visit your parents in your childhood home,           
-and you find yourself thinking,     
+to visit your parents in your childhood home,      
+
+and you find yourself thinking,
 
 wondering how this place had ever       
-felt big enough to hold all of your dreams      
+felt big enough to hold all of your dreams.    
