@@ -77,14 +77,14 @@ const NotFoundPage = ({ data, location }) => {
       <Container
         title="LA Hacks"
         // imgLocation="/experiences/ucla.png"
-        desc="director of sponsorships for one of the largest collegiate hackathons in the United States"
+        desc="director of sponsorships for one of the largest collegiate hackathons in the united states"
         link="https://lahacks.com/"
       ></Container>
 
       <Container
         title="Nova For Good"
         // imgLocation="/experiences/ucla.png"
-        desc="working on business development and outreach efforts for our mentorship project, as well as recruitment lead"
+        desc="working on business development and outreach efforts for our mentorship project, as well as recruitment and projects lead"
         link="https://www.novaforgood.org/"
       ></Container>
 
