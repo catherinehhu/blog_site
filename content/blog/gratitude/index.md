@@ -26,8 +26,9 @@ Gratitude for the teachers who taught me to read and love learning in my most fo
 
 Gratitude for my parents, who nodded when I talked through my pseudocode despite not understanding a single word I said and left sliced oranges and pears on the table when I emerged from my room at midnight. Gratitude for the clubs and organizations that truly made my first year of college unforgettable. Gratitude for all the people who embraced an awkward introvert with open arms to a virtual campus. I owe it all to them. 
 
-It's funny—I pride myself on my love for writing, but I’ve always struggled with writing coherent thank you notes—I write and rewrite until my brain is exhausted and it sounds okay-ish(?).  
+It's funny—I pride myself on my love for writing, but I’ve always struggled with writing coherent thank you notes—I write and rewrite until my brain is exhausted. 
 
-Because I always find myself wondering, how do I adequately convey my gratitude to someone who put their own time and energy into helping me grow and become a better person? 
+I always find myself wondering: how do I even begin to adequately convey my gratitude to someone who put their own time and energy into helping me grow and become a better person? Gratitude is such a deep, complex concept. 
 
-Gratitude is such a deep, complex concept. How do I even begin to acknowledge that in words? 
+
+Of all the words I ever write in my life, I hope my thank you's will be the most genuine and the most eloquent.

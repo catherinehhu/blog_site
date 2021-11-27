@@ -28,4 +28,6 @@ When your father gets called *a fucking chink* in the streets of one of the safe
 
 Or, when they tell you to be careful, to not be so Chinese in your daily life, to avoid Chinatowns, to do anything to minimize the target on your back, you will see their stone walls crumble, and every time, your own heart will shatter. 
 
-Because you and your family have learned through too much pain and too much hurt, that in this twisted land of lost hopes and unfulfilled dreams, conformity is always safer.  
+Because you are so very tired. So very tired of feeling the same hopeless rage fill your veins whenever you are reminded of the lesson that you and your family have learned. 
+
+The constant threat, etched into your mind through too much pain and too much hurt, that in this twisted land of promised freedom and lost hopes and unfulfilled dreams, conformity is always safer.  
