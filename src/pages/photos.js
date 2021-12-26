@@ -10,7 +10,7 @@ const NotFoundPage = ({ data, location }) => {
   return (
     <Layout location={location} title={siteTitle}>
       <Seo title="photos" />
-      <h2>photos</h2>
+      <h2>[photos i've taken]</h2>
       <p>
         i'm not the best photographer, but here are some of my
         favorite nature shots!

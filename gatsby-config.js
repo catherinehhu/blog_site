@@ -3,7 +3,7 @@ module.exports = {
     title: `catherine hu`,
     author: {
       name: `catherine hu`,
-      summary: `a computer science and geography student at ucla with a terrible sense of direction and a passion for storytelling`,
+      summary: `a computer science and environmental systems student at ucla with a terrible sense of direction and a passion for storytelling`,
     },
     description: `personal blog + portfolio site by catherine.`,
     siteUrl: `https://catherinehhu.com`,

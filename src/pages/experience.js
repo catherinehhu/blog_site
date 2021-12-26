@@ -13,7 +13,7 @@ const NotFoundPage = ({ data, location }) => {
   return (
     <Layout location={location} title={siteTitle}>
       <Seo title="experience" />
-      <h2 style={{ marginTop: `1rem` }}>[insert creative title here]</h2>
+      <h2 style={{ marginTop: `1rem` }}>[things i've made]</h2>
       <h3>projects</h3>
 
       <Container
@@ -76,21 +76,21 @@ const NotFoundPage = ({ data, location }) => {
 
       <Container
         title="LA Hacks"
-        // imgLocation="/experiences/ucla.png"
+        imgLocation="/experiences/lahacks.png"
         desc="director of sponsorships for one of the largest collegiate hackathons in the united states"
         link="https://lahacks.com/"
       ></Container>
 
       <Container
         title="Nova For Good"
-        // imgLocation="/experiences/ucla.png"
+        imgLocation="/experiences/nova.png"
         desc="working on business development and outreach efforts for our mentorship project, as well as recruitment and projects lead"
         link="https://www.novaforgood.org/"
       ></Container>
 
     <Container
         title="Daily Bruin"
-        // imgLocation="/experiences/ucla.png"
+        imgLocation="/experiences/ucla.png"
         desc="data journalist for the stack and writer for the news page (science & health)"
         link="https://dailybruin.com/author/catherine-hu"
       ></Container>

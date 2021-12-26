@@ -31,7 +31,6 @@ const NotFoundPage = ({ data, location }) => {
         <li>hiking</li>
         <li>making bad puns</li>
         <li>developing recipes</li>
-        <li>taking blurry photos of the sky and the ocean</li>
         <li>reading memoirs, fantasy, + poetry</li>
         <li>practicing calligraphy</li>
         <li>using the Oxford comma</li>
