@@ -24,6 +24,7 @@ const BlogIndex = ({ data, location }) => {
       <Seo title="stories" />
       <h2>[words i've written]</h2>
       <p>🔨 new stories currently floundering in the development hell that is my fifty page microsoft word doc. check back later—i'm working on some stuff, i promise!</p>
+      <p><i>disclaimer: some are random thought dumps and word vomits, and everything else is a mix of my overactive imagination and my own reality.</i></p>
       <ol style={{ listStyle: `none` }}>
         {posts.map(post => {
           const title = post.frontmatter.title || post.fields.slug
