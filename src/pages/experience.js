@@ -97,10 +97,14 @@ const NotFoundPage = ({ data, location }) => {
 
       <h3>work</h3>
       <ul>
-        <li>product management @ rising academies</li>
-        <li>product marketing @ hoamsy</li>
-        <li>sustainability analyst @ voiz</li>
-        <li>content writer @ city flavor</li>
+        <li>researcher @ the counterforce lab (winter 2022)</li>
+        <li>researcher @ ucla anderson school of management (fall 2021/winter 2022)</li>
+        <li>fintech wintern @ marketaxess (winter 2022)</li>
+        <li>pm @ rising academies (fall 2021)</li>
+        <li>pmm @ hoamsy (summer 2021)</li>
+        <li>pm + swe @ urx (summer 2021)</li>
+        <li>sustainability analyst @ voiz (spring 2021)</li>
+        <li>content writer @ city flavor (summer/fall 2020)</li>
       </ul>
     </Layout>
   )
