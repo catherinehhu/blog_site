@@ -27,48 +27,49 @@ Honestly, I was a rather mediocre piano player. I hated practicing and polishing
 
 Before I moved to the United States, my third grade teachers gave me a mini yearbook to remember the class by. In it, they’d drawn a picture of themselves, writing “Remember when we paper machéd the sun and made a mess?” Strangely enough, I do. 
 
-We’d blown up balloons and covered them in paper mache, letting the mix of newspapers and glue harden before we popped the balloons, and painted them in a messy jumble of yellows and oranges. I stumbled across the book a few years ago, on a day when I was feeling particularly overwhelmed by the world. I clung onto that memory for a few hours, thinking about a time when life was simpler, slower. I wonder how they’re doing. 
+We’d blown up balloons and covered them in paper maché, letting the mix of newspapers and glue harden before we popped the balloons, and painted them in a messy jumble of yellows and oranges. I stumbled across the book a few years ago, on a day when I was feeling particularly overwhelmed by the world. I clung onto that memory for a few hours, thinking about a time when life was simpler, slower. I wonder how they’re doing. 
 
 The list of precious memories, lessons, and people is endless. How do you thank the people who are no longer in your life for the indelible impact they left on it? How do you know to cherish your last time seeing them before you know it’ll be the last? How do you make sure you’ll remember the moments you shared with them before you forget? 
 
 The world is moving too fast for me to remember every little moment and every little thing. 
 
-*i’m not ready to go. *
+*i’m not ready to go.*
 
-make it slow down. 
-won’t you stay a while? 
-we used to feel like we had all the time in the world, 
-and now you’re getting ready to leave. 
+make it slow down.      
+won’t you stay a while?         
+we used to feel like we had all the time in the world,      
+and now you’re getting ready to leave.      
 
 i’m not ready. 
 
-one last cup of tea, 
-one last story, 
-one last joke 
-before you go?
+one last cup of tea,         
+one last story,         
+one last joke       
+before you go?      
 
-please don’t forget me. 
+please don’t forget me.         
 please come back again. 
 
-will i be in your thoughts, the way you’ll be in mine? 
+will i be in your thoughts,         
+the way you’ll be in mine? 
 
-time is slippery, 
+time is slippery,       
 and the mind is flawed. 
 
-so stay a while. 
-just a little longer? 
+so stay a while.        
+just a little longer?       
+don’t leave my life just yet.       
+stay before you leave.      
 don’t leave my life just yet. 
-stay before you leave. 
-don’t leave my life just yet. 
 
-i’m not ready. 
+i’m not ready.  
 
-it is inevitable 
-that you will soon 
-become a memory 
+it is inevitable        
+that you will soon      
+become a memory         
 
-of something, 
-of someone, 
+of something,       
+of someone,         
 
 some day. 
 
