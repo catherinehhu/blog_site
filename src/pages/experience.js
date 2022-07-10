@@ -13,15 +13,26 @@ const NotFoundPage = ({ data, location }) => {
   return (
     <Layout location={location} title={siteTitle}>
       <Seo title="experience" />
-      <h2 style={{ marginTop: `1rem` }}>[things i've made]</h2>
-      <h3>projects</h3>
+      <h2 style={{ marginTop: `1rem` }}>[things i do]</h2>
+      <p><i>i am aware that this website's kinda basic! will be revamped soon, i swear!</i></p>
+      <h3>school orgs</h3>
+      <p>on campus, you can find me @ la hacks, nova for good, or upe. i run around campus a lot.</p>
 
-      <Container
-        title="currently:"
-        desc="writing a collection of short stories inspired by my life (to be finished in 2022) + organizing my life on notion"
-        imgLocation="/experiences/notion.png"
-        link="https://catherinehhu.com/"
-      ></Container>
+      <h3>work</h3>
+      <ul>
+        <li>pm @ lucid software (june - present)</li>
+        <li>researcher @ ucla anderson school of management (sept 2021 - present)</li>
+        <li>researcher @ the counterforce lab (jan - june 2022)</li>
+        <li>fintech wintern @ marketaxess (jan 2022)</li>
+        <li>pm @ rising academies (sept - nov 2021)</li>
+        <li>pmm @ hoamsy (june - aug 2021)</li>
+        <li>pm + swe @ urx (june - aug 2021)</li>
+        <li>sustainability analyst @ voiz (jan - march 2021)</li>
+        <li>content writer @ city flavor (july - oct 2020)</li>
+      </ul>
+
+
+      {/* <h3>projects</h3>
 
       <Container
         title="symbia"
@@ -70,11 +81,8 @@ const NotFoundPage = ({ data, location }) => {
         desc="a functional spectrophotometer built @ the arnold & mabel beckman foundation"
         imgLocation="/experiences/beckman.png"
         link="https://www.beckman-foundation.org/people/catherine-hu/"
-      ></Container>
-
-      <h3>school orgs</h3>
-
-      <Container
+      ></Container> */}
+      {/* <Container
         title="LA Hacks"
         imgLocation="/experiences/lahacks.png"
         desc="director of sponsorships for one of the largest collegiate hackathons in the united states"
@@ -93,19 +101,7 @@ const NotFoundPage = ({ data, location }) => {
         imgLocation="/experiences/ucla.png"
         desc="data journalist for the stack and writer for the news page (science & health)"
         link="https://dailybruin.com/author/catherine-hu"
-      ></Container>
-
-      <h3>work</h3>
-      <ul>
-        <li>researcher @ the counterforce lab (winter 2022)</li>
-        <li>researcher @ ucla anderson school of management (fall 2021/winter 2022)</li>
-        <li>fintech wintern @ marketaxess (winter 2022)</li>
-        <li>pm @ rising academies (fall 2021)</li>
-        <li>pmm @ hoamsy (summer 2021)</li>
-        <li>pm + swe @ urx (summer 2021)</li>
-        <li>sustainability analyst @ voiz (spring 2021)</li>
-        <li>content writer @ city flavor (summer/fall 2020)</li>
-      </ul>
+      ></Container> */}
     </Layout>
   )
 }
