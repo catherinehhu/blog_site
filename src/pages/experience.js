@@ -16,11 +16,24 @@ const NotFoundPage = ({ data, location }) => {
       <h2 style={{ marginTop: `1rem` }}>[things i do]</h2>
       <p><i>i am aware that this website's kinda basic! will be revamped soon, i swear!</i></p>
       <h3>school orgs</h3>
-      <p>on campus, you can find me @ la hacks, nova for good, or upe. i run around campus a lot.</p>
+      <p>on campus, you can find me @ la hacks, nova for good, or upe. i run around campus a lot. </p>
+      <Container
+        title="LA Hacks"
+        imgLocation="/experiences/lahacks.png"
+        desc="leading one of the largest collegiate hackathons in the united states + celebrating our 11th iteration this april"
+        link="https://lahacks.com/"
+      ></Container>
+
+      <Container
+        title="Nova For Good"
+        imgLocation="/experiences/nova.png"
+        desc="connecting students in tech with nonprofits to design meaningful solutions and serve communities"
+        link="https://www.novaforgood.org/"
+  ></Container>
 
       <h3>work</h3>
       <ul>
-        <li>pm @ lucid software (june - present)</li>
+        <li>pm @ lucid software (june 2022 - present)</li>
         <li>researcher @ ucla anderson school of management (sept 2021 - present)</li>
         <li>researcher @ the counterforce lab (jan - june 2022)</li>
         <li>fintech wintern @ marketaxess (jan 2022)</li>
@@ -31,8 +44,7 @@ const NotFoundPage = ({ data, location }) => {
         <li>content writer @ city flavor (july - oct 2020)</li>
       </ul>
 
-
-      {/* <h3>projects</h3>
+      <h3>projects</h3>
 
       <Container
         title="symbia"
@@ -81,27 +93,15 @@ const NotFoundPage = ({ data, location }) => {
         desc="a functional spectrophotometer built @ the arnold & mabel beckman foundation"
         imgLocation="/experiences/beckman.png"
         link="https://www.beckman-foundation.org/people/catherine-hu/"
-      ></Container> */}
-      {/* <Container
-        title="LA Hacks"
-        imgLocation="/experiences/lahacks.png"
-        desc="director of sponsorships for one of the largest collegiate hackathons in the united states"
-        link="https://lahacks.com/"
-      ></Container>
-
-      <Container
-        title="Nova For Good"
-        imgLocation="/experiences/nova.png"
-        desc="working on business development and outreach efforts for our mentorship project, as well as recruitment and projects lead"
-        link="https://www.novaforgood.org/"
-      ></Container>
+      ></Container> 
 
     <Container
         title="Daily Bruin"
         imgLocation="/experiences/ucla.png"
         desc="data journalist for the stack and writer for the news page (science & health)"
         link="https://dailybruin.com/author/catherine-hu"
-      ></Container> */}
+      ></Container>
+
     </Layout>
   )
 }
