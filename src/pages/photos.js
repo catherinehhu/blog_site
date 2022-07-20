@@ -17,6 +17,15 @@ const NotFoundPage = ({ data, location }) => {
       </p>
       <div class="img-wrap">
         <img
+          src="/photos/sf.jpg"
+          class="gallery"
+          alt="golden gate bridge, noon"
+        ></img>
+        <p class="img-description"><i>san francisco, california: june 2022</i></p>
+      </div>
+      <br></br>
+      <div class="img-wrap">
+        <img
           src="/photos/lajolla.jpeg"
           class="gallery"
           alt="la jolla, california, beach"

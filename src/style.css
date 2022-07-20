@@ -407,6 +407,14 @@ text-underline-offset: var(--spacing-1);
 /* relevant styles */
 .img-wrap {
   position: relative;
+  display: flex; 
+  justify-content: center; 
+  align-items: center;
+  object-fit: contain; 
+}
+
+.img-wrap img {
+  width: 30vw; 
 }
 
 .img-description {

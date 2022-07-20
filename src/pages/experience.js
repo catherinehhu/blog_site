@@ -31,6 +31,13 @@ const NotFoundPage = ({ data, location }) => {
         link="https://www.novaforgood.org/"
   ></Container>
 
+    <Container
+        title="UPE"
+        imgLocation="/experiences/upe.png"
+        desc="making cs more accessible with the mentorship committee"
+        link="https://upe.seas.ucla.edu/"
+      ></Container>
+
       <h3>work</h3>
       <ul>
         <li>pm @ lucid software (june 2022 - present)</li>
